@@ -1,0 +1,6 @@
+member_name,borrow_id,book_name,author,issue_date,return_date,status,fine_amount
+"Arun Kumar",1001,"Python Programming","Mark Lutz",2026-08-10,2026-08-15,Returned,0.00
+"Priya Sharma",1002,"Database System Concepts","Abraham Silberschatz",2026-08-11,2026-08-25,Returned,0.00
+"Arun Kumar",1003,"Data Structures","Seymour Lipschutz",2026-08-12,2026-08-18,Returned,20.00
+"Karthik Raj",1004,"Machine Learning","Tom Mitchell",2026-08-13,NULL,Issued,30.00
+"Sneha Devi",1005,"Artificial Intelligence","Stuart Russell",2026-08-14,2026-08-20,Returned,0.00
