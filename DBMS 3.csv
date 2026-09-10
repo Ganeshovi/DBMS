@@ -1,0 +1,5 @@
+product_id,product_name,category,unit_price,seller_name,city,quantity,reorder_level,stock_status
+301,"Laser Keyboard",Accessories,1250.00,"Nova Digital Supplies",Chennai,25,10,"In Stock"
+302,"USB Microphone",Audio,2450.00,"Bright Office Hub",Coimbatore,7,8,Reorder
+303,"Wi-Fi Router",Networking,3200.00,"Metro Gadget House",Madurai,18,5,"In Stock"
+305,"Wireless Mouse",Accessories,850.00,"Nova Digital Supplies",Chennai,55,15,"In Stock"
